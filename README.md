@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or contributions:
 - Create an issue in the repository
-- Contact: [your-email@example.com]
+- Contact: [chindanoorpranavi@gmail.com]
 
 ## 🔄 Version History
 
